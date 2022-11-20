@@ -14,6 +14,11 @@ The instructor during the session was Mr. Shaurya Sinha (a Data Analyst at Jio).
 
 <br>during these 7 days, and everything was explained from the very basics so that anyone with zero experience on programming can learn.
 
+# Project
+
+# Output
+  
+  ![Screenshot (374)](https://user-images.githubusercontent.com/84679377/202906986-1227ec7b-4042-496b-b4d8-95f758e94de0.png)
 
 
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit: www.shapeai.tech
